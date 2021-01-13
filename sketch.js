@@ -9,7 +9,7 @@ var bedroom,garden, washroom;
 function preload(){
 sadDog=loadImage("dog1.png");
 happyDog=loadImage("dog2.png");
-bedroom=loadImage("bed Room.png");
+bedroom=loadImage("Bed Room.png");
 garden=loadImage("Garden.png");
 washroom=loadImage("Wash Room.png");
 }
